@@ -1,0 +1,47 @@
+img{
+    width: 200px;
+    background-color: paleturquoise;
+}
+.summary{
+    background-color: paleturquoise;
+    height: auto;
+    justify-content: center;
+}
+body{
+    background-color: rgb(239, 8, 139);
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+.education{
+    background-color: paleturquoise;
+    height: auto;
+    justify-content: center;
+}
+.expirence{
+    background-color: paleturquoise;
+    height: auto;
+    justify-content: center;
+}
+.achievements{
+    background-color: paleturquoise;
+    height: auto;
+    justify-content: center;
+}
+.hobbies{
+    background-color: paleturquoise;
+    height: auto;
+    justify-content: center;
+}
+.others{
+    background-color: paleturquoise;
+    height: auto;
+    justify-content: center;
+}
+.Name{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color: paleturquoise;
+    text-align: center;
+}
